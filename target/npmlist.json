@@ -1,1 +1,0 @@
-{"name":"Curso Node","dependencies":{"body-parser":{"version":"1.19.0"},"express-handlebars":{"version":"5.3.4"},"express":{"version":"4.17.1"},"mysql2":{"version":"2.3.3-rc.0"},"sequelize":{"version":"6.9.0"}}}
