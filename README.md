@@ -1,11 +1,16 @@
 # Curso de Node.js
 
-1. Run MySQL (password: unitrends1)
+1. Run MySQL:
 ```console
 mysql -u root -p
 ```
 
-2. Run Node.js
+2. Uncomment line 12 of [`Post.js`](./models/Post.js) and run:
+```console
+node Post.js
+```
+
+3. Run Node.js:
 ```console
 npm install
 node app.js
